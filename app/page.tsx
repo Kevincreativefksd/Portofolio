@@ -1,9 +1,9 @@
-import Hero from "@/components/Hero";
-import Problem from "@/components/Problem";
-import Solution from "@/components/Solution";
-import Portfolio from "@/components/Portfolio";
-import Services from "@/components/Services";
-import CTA from "@/components/CTA";
+import hero from "@/components/hero";
+import problem from "@/components/problem";
+import solution from "@/components/solution";
+import portfolio from "@/components/portfolio";
+import services from "@/components/services";
+import cta from "@/components/cta";
 
 export const metadata = {
   title: "SEO Architect untuk UMKM | Jasa SEO Indonesia",
@@ -14,12 +14,12 @@ export const metadata = {
 export default function Home() {
   return (
     <main className="bg-white text-black dark:bg-black dark:text-white">
-      <Hero />
-      <Problem />
-      <Solution />
-      <Portfolio />
-      <Services />
-      <CTA />
+      <hero />
+      <problem />
+      <solution />
+      <portfolio />
+      <services />
+      <cta />
     </main>
   );
 }
