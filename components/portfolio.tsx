@@ -1,4 +1,4 @@
-export default function Portfolio() {
+export default function portfolio() {
   return (
     <section className="p-8 md:p-16 border-b-4 border-black dark:border-white">
       <h2 className="text-3xl md:text-4xl font-bold mb-8">

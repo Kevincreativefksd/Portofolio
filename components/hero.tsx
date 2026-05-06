@@ -1,4 +1,4 @@
-export default function Hero() {
+export default function hero() {
   return (
     <section className="p-8 md:p-16 border-b-4 border-black dark:border-white">
       <div className="max-w-4xl">

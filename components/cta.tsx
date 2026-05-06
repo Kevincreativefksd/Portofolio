@@ -1,4 +1,4 @@
-export default function CTA() {
+export default function cta() {
   return (
     <section className="p-8 md:p-16">
       <div className="border-4 border-black dark:border-white p-8 shadow-[6px_6px_0px_#000] text-center">
