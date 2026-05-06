@@ -63,11 +63,11 @@ Zona Ekonomi
 
 Lalu ganti URL sesuai project kamu:
 
-<a href="https://yourwebsite.com" target="_blank">
+< <a href="https://yourwebsite.com" target="_blank"> >
 
----
 
-📊 Ubah Data Chart
+
+ Ubah Data Chart
 
 Edit di "script.js":
 
@@ -75,7 +75,7 @@ const data = [50, 80, 120, 160, 220];
 
 ---
 
-🎯 Purpose
+ Purpose
 
 Project ini dibuat untuk:
 
@@ -86,7 +86,7 @@ Project ini dibuat untuk:
 
 ---
 
-🧠 SEO Concept Used
+ SEO Concept Used
 
 - Semantic structure
 - Internal navigation flow
