@@ -100,6 +100,7 @@ Project ini dibuat untuk:
 
 - [ ] Tambah Schema JSON-LD (Rich Snippet)
 - [ ] Blog system (Topical Authority - Zona Ekonomi)
+- [ ] https://zonaekonomi.com
 - [ ] Detail case study per project
 - [ ] Migrasi ke Next.js (SSR + performance)
 - [ ] Dashboard SEO real-time
